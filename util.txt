@@ -1,0 +1,11 @@
+
+Code Python:
+    Sobre a função o ".format()"
+    https://pyformat.info/
+
+
+Diversos:
+    Para ter acesso a um conjunto ferramentas grátis - valido para estudantes.
+    Tende usar a conta mail da Universidade / Escola
+    https://education.github.com/
+
