@@ -1,6 +1,6 @@
 
 Code Python:
-    Sobre a função o ".format()"
+    Sobre ".format()"
     https://pyformat.info/
 
 
