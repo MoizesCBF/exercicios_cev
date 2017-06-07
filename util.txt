@@ -6,6 +6,6 @@ Code Python:
 
 Diversos:
     Para ter acesso a um conjunto ferramentas grátis - valido para estudantes.
-    Tende usar a conta mail da Universidade / Escola
+    Tem que usar a conta mail da Universidade / Escola
     https://education.github.com/
 
