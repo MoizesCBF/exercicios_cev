@@ -7,7 +7,7 @@ Todos os exercícios do Curso em Vídeo
 Sobre ".format()" [Pyformat](https://pyformat.info/)
 
 
-Diversos:
+#Diversos
 Para ter acesso a um conjunto ferramentas grátis - valido para estudantes.
 Tem que usar a conta mail da Universidade / Escolahttps://education.github.com/
 
