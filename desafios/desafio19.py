@@ -13,10 +13,8 @@ elif (n == 2):
     print(aluno2)
 elif (n == 3):
     print(aluno3)
-elif (n == 4):
-    print(aluno4)
 else:
-    print("O professor apaga... :)")
+    print(aluno4)
 
 #Usando a função choice
 print()
