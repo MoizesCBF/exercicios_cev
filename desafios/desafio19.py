@@ -19,8 +19,14 @@ elif (n == 4):
 else:
     print("O professor apaga... :)")
 
+#Usando a função choice
+print()
+from random import choice
+nome = choice([aluno1,aluno2,aluno3,aluno4])
+print(nome)
 
-# Mais uma maneira de fazer, mas agora usando um array
+
+# Mais uma maneira de fazer, mas agora usando um array e o ciclo for
 alunos = []
 for i in range(4):
     alunos.append(input('Nome do aluno {}: ' .format(i + 1)))
